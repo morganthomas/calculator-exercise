@@ -13,8 +13,11 @@
 .calculator .readout {
   border: 1px solid black;
   padding: 10px;
+  margin-bottom: 10px;
 }
 
 .calculator button {
-  
+  width: 30px;
+  height: 30px;
+  padding: 10px;
 }
